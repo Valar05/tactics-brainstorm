@@ -28,6 +28,6 @@ This repo is for historical analysis, game-derived systems theory, and high-leve
 
 ## Research papers
 
+- [Small-Unit Fire Superiority and Maneuver](docs/SMALL_UNIT_FIRE_SUPERIORITY_AND_MANEUVER.md) — fire superiority as temporary mobility, suppression as a transfer of freedom of action, and the causal sequence linking support, breach, and maneuver.
 - [Combat Engineering Across the Ages](docs/COMBAT_ENGINEERING_ACROSS_THE_AGES.md) — historical survey with special emphasis on World War I and World War II, followed by Korea, Cold War Europe, Vietnam, Desert Storm, and modern doctrine.
 - [Combat Engineering Terrain-Leverage Theorem](docs/COMBAT_ENGINEERING_TERRAIN_LEVERAGE_THEOREM.md) — formal graph model, theorem, proof, route-entropy and persistence corollaries, bottleneck lemma, counter-engineering model, and game-design translation.
-
